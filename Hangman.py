@@ -8,6 +8,8 @@ def get_word():
     return word.upper()
 
     # addding extra comments to check git
+    # second line 
+    # and more 
 
 
 def play(word):
