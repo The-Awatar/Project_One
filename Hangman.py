@@ -7,9 +7,9 @@ def get_word():
     word = random.choice(word_list)
     return word.upper()
 
-    # addding extra comments to check git
-    # second line 
-    # and more 
+def test_function():
+	print("This Function Does Nothing at all")
+	return 'This function is just for to test.'
 
 
 def play(word):
